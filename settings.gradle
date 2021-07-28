@@ -1,2 +1,3 @@
 rootProject.name='AndroidHttpProcessor'
-include ':app'
+include ':HttpProcessor'
+include ':HttpProcessorByHilt'
