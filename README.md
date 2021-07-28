@@ -1,3 +1,3 @@
 # AndroidHttpProcessor
-HttpProcessor：在Android应用开发中，使用动态代理对Http网络处理进行封装，接口隔离。
+HttpProcessor：在Android应用开发中，使用动态代理对Http网络处理进行封装，接口隔离。 
 AndroidHttpProcessor：在HttpProcessor基础上使用Hilt。
